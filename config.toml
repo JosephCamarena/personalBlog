@@ -1,4 +1,4 @@
-baseURL = "https://josephcamarena.github.io/"
+#baseURL = "https://josephcamarena.github.io/"
 languageCode = "en-us"
 title = "Joe C."
 theme = "cleanwhite"
