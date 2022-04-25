@@ -2,7 +2,7 @@
 languageCode = "en-us"
 title = "Joe C."
 theme = "cleanwhite"
-paginate = 5 #frontpage pagination
+paginate = 2 #frontpage pagination
 publishDir = "public"
 
 [markup]
