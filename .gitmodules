@@ -1,3 +1,7 @@
 [submodule "themes/cleanwhite"]
 	path = themes/cleanwhite
 	url = git@github.com:JosephCamarena/cleanwhite.git
+[submodule "public"]
+	path = public
+	url = git@github.com:JosephCamarena/JosephCamarena.github.io.git
+	branch = main
