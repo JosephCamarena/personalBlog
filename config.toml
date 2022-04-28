@@ -48,4 +48,6 @@ publishDir = "public"
   rss            = false
   email          = "pwnerbear@pm.me"
   linkedin       = "https://www.linkedin.com/in/josephcamarena"
-  
+  github         = "https://github.com/JosephCamarena"
+  tryhackme      = "https://tryhackme.com/p/PwnerJoe"
+ 
