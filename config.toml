@@ -25,6 +25,9 @@ publishDir = "public"
   description = "Thoughts and examples on Cyber Security, including Capture The Flags and Graduate School Projects"
   toc = true
 
+  # Comments
+  hyvor = true
+
   # Sidebar settings
   sidebar_about_description = "Joseph C. - Graduate Student, Exercise & Sports Enthusiast, and soon-to-be Hacker"
   sidebar_avatar = "images/Joe.jpg"
@@ -50,4 +53,3 @@ publishDir = "public"
   linkedin       = "https://www.linkedin.com/in/josephcamarena"
   github         = "https://github.com/JosephCamarena"
   tryhackme      = "https://tryhackme.com/p/PwnerJoe"
- 
