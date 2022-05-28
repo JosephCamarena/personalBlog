@@ -5,7 +5,7 @@ date: 2022-03-18T10:00:51-07:00
 draft: false
 toc: true
 image: ""
-tags: [Web Security, Penetration Test, XSS, Social Engineering, TabNabbing, DoS, ReDoS]
+tags: [Web Security, Penetration Test, XSS, Social Engineering, TabNabbing, DoS, ReDoS, Projects]
 categories: [Projects]
 ---
 

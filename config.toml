@@ -18,6 +18,7 @@ publishDir = "public"
   # HTML Header settings
   header_image = "images/cybersecurity-banner-scaled.jpeg"
   title = "Topics in Cyber Security"
+  author = "Joseph Camarena"
   slogan = "Grad School Projects, Pen Testing, and CTFs"
   SEOTitle = "Joseph Camarena Topics in Cyber Security"
   keyword = "Joseph, Camarena, Cyber, Security, CTF, CTFs, Graduate, School, Capture, The, Flag"
@@ -27,9 +28,10 @@ publishDir = "public"
 
   # Comments
   hyvor = true
+  github = false
 
   # Sidebar settings
-  sidebar_about_description = "Joseph C. - Graduate Student, Exercise & Sports Enthusiast, and soon-to-be Hacker"
+  sidebar_about_description = "Computer Science Graduate School Projects, Pen Testing writeups, CTF writeups, and more!"
   sidebar_avatar = "images/Joe.jpg"
   about_me = true
 
