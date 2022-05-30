@@ -2,7 +2,7 @@ baseURL = "https://josephcamarena.github.io/"
 languageCode = "en-us"
 title = "Joe C."
 theme = "cleanwhite"
-paginate = 2 #frontpage pagination
+paginate = 10 #frontpage pagination
 publishDir = "public"
 
 [markup]
