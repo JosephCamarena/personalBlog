@@ -4,7 +4,7 @@ description: "This is my life roadmap, detailing my immediate, short-term, and l
 date: 2022-05-29T16:45:25-07:00
 draft: false
 toc: false
-image: "/images/matt-duncan--unsplash.jpg"
+image: "/images/posts/projects/roadmap/matt-duncan--unsplash.jpg"
 tags: []
 categories: [Roadmap]
 ---
