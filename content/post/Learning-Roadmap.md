@@ -21,6 +21,7 @@ categories: [Roadmap]
 - [ ] Train BJJ for 6 months
   - [x] 1st class: Wednesday, May 18 2022
 - [ ] Find a pianist to take piano lessons
+- [ ] Find a new Blog Discussion Platform
 
 **Short-term goals**:
 - [x] Enroll in Graduate School
@@ -43,7 +44,7 @@ categories: [Roadmap]
 
 **Self-learning Courses**:
 - [ ] <a href="https://academy.tcm-sec.com/p/practical-ethical-hacking-the-complete-course" target="_blank">Practical Ethical Hacking</a>
-  * In Progress: 30% Complete.
+  * In Progress: 53% Complete.
 - [ ] <a href="https://academy.tcm-sec.com/p/osint-fundamentals" target="_blank">OSINT Fundamentals</a>
 - [ ] <a href="https://academy.tcm-sec.com/p/external-pentest-playbook" target="_blank">External Pentest Playbook</a>
 - [ ] <a href="https://academy.tcm-sec.com/p/linux-privilege-escalation" target="_blank">Linux Privilege Escalation</a>
